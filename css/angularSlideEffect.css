@@ -1,0 +1,18 @@
+.textField{
+	display: block;
+}
+
+
+
+.i_1,
+.i_2,
+.i_3{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	background-color: blue;
+}
+
+p{
+	margin-top: 60px;
+}
